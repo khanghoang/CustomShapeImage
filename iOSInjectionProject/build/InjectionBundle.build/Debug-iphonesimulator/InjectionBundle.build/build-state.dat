@@ -1,0 +1,233 @@
+TInjectionBundle
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist
+cProcessPCH /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch InjectionBundle-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle normal i386
+cGenerateDSYMFile /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle
+cTouch /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053A3E8FA00000000000003B4
+t1403250938
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053A3E90E000000000000019E
+t1403250958
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053A3E9140000000000446820
+t1403250964
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053A3E91A000000000088D8C0
+t1403250970
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c0000000053A3E91E0000000000037680
+t1403250974
+s226944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c0000000053A3E920000000000048F720
+t1403250976
+s4781856
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053A3E9280000000001F1DE10
+t1403250984
+s32628240
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m
+c0000000053DE01B70000000000000392
+t1407058359
+s914
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist
+c0000000053DE01B700000000000003CE
+t1407058359
+s974
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Prefix.pch
+c0000000053DE01B700000000000000A1
+t1407058359
+s161
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle
+t1407058364
+s136
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM
+t2
+s0
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist
+t1407058363
+s721
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle
+t1407058364
+s16440
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o
+t1407058364
+s5368
+
+N/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/InjectionBundle.LinkFileList
+c0000000053DE01BB00000000000000AB
+t1407058363
+s171
+
+N/var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch
+t1407058364
+s5381300
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5629153b398eb941^3c9f493b398eb941^---0#1#1#--18"Check dependencies36"E5D54313-ADAD-425C-A824-953D8F8803D6-
+
+CCompileC build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428751164.181735
+e428751164.247267
+r1
+xCompileC
+xbuild/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o
+x/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m
+d/Users/hoangtrieukhang/Library/Application Support/Developer/Shared/Xcode/Plug-ins/InjectionPlugin.xcplugin/Contents/Resources/BundleInjection.h
+d/Users/hoangtrieukhang/Library/Application Support/Developer/Shared/Xcode/Plug-ins/InjectionPlugin.xcplugin/Contents/Resources/BundleInterface.h
+d/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m202"CompileC build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o BundleContents.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler01a42e3c398eb941^594d3f3c398eb941^---0#0#1#-19%DVTDocumentLocation2@85"file:///Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m0000000000000000^3978"CompileC build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o BundleContents.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-generated-files.hmap -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-own-target-headers.hmap -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-all-target-headers.hmap -iquote /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-project-headers.hmap -iquote.. -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/include -I../RoundImage -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/DerivedSources/i386 -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/DerivedSources -F/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator -include /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch -MMD -MT dependencies -MF /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.d --serialize-diagnostics /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.dia -c /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/BundleContents.m -o /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o36"E2561D08-55C1-438C-B331-2670C5963EDA-
+bADBCACA8-233F-4264-9416-2C9215CF8DA7
+
+CGenerateDSYMFile /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle
+s428751164.466042
+e428751164.590350
+r1
+xGenerateDSYMFile
+x/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM
+x/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM139"GenerateDSYMFile build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundledd61773c398eb941^be32973c398eb941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM0034b80cdeffdf42^805"GenerateDSYMFile build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle    cd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle -o /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle.dSYM36"4A60CEAE-1A29-44CB-BF18-9C02ADE94476-
+bADBCACA8-233F-4264-9416-2C9215CF8DA7
+
+CLd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle normal i386
+s428751164.248140
+e428751164.464193
+r1
+xLd
+x/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle
+xnormal
+xi386
+d/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/InjectionBundle.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/bundle1.o
+d/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/BundleContents.o
+d/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/i386/injecting_class.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Link /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle81"Ld build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle normal i386529c3f3c398eb941^fed6763c398eb941^---0#0#1#--1699"Ld build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle normal i386    cd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator -F/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator -filelist /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/InjectionBundle.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 i386/injecting_class.o -undefined dynamic_lookup -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework UIKit -framework QuartzCore -framework OpenGLES -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/Objects-normal/i386/InjectionBundle_dependency_info.dat -o /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/InjectionBundle36"9167264F-FAFB-4207-B04E-DAE8F6BE91F7-
+bADBCACA8-233F-4264-9416-2C9215CF8DA7
+
+CProcessInfoPlistFile /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist
+s428751163.301844
+e428751163.307945
+r1
+xProcessInfoPlistFile
+x/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist
+x/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Process /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist109"ProcessInfoPlistFile build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist InjectionBundle-Info.plist9dda4d3b398eb941^e6064f3b398eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist0000000000000000^732"ProcessInfoPlistFile build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist InjectionBundle-Info.plist    cd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle/Info.plist36"C84055AF-C262-47E4-85C4-75DD50F44A01-
+bADBCACA8-233F-4264-9416-2C9215CF8DA7
+
+CProcessPCH /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch InjectionBundle-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s428751163.311970
+e428751164.180323
+r1
+xProcessPCH
+x/var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch
+xInjectionBundle-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile InjectionBundle-Prefix.pch306"ProcessPCH /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch InjectionBundle-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera71f503b398eb941^cd202e3c398eb941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Prefix.pch0000000000000000^3979"ProcessPCH /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch InjectionBundle-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-generated-files.hmap -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-own-target-headers.hmap -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-all-target-headers.hmap -iquote /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/InjectionBundle-project-headers.hmap -iquote.. -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/include -I../RoundImage -I/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/include/libxml2 -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/DerivedSources/i386 -I/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/InjectionBundle.build/Debug-iphonesimulator/InjectionBundle.build/DerivedSources -F/Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.d -c /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/InjectionBundle-Prefix.pch -o /var/folders/ys/x61mqbq51l18l8v8gl4zmtnc0000gq/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/InjectionBundle-Prefix-ddpcirgjegiochgeawuxrlnwuccw/InjectionBundle-Prefix.pch.pch36"61A017C4-EF14-44F8-B895-172EE39F34D7-
+bADBCACA8-233F-4264-9416-2C9215CF8DA7
+
+CTouch /Users/hoangtrieukhang/Desktop/RoundImage/iOSInjectionProject/build/Debug-iphonesimulator/InjectionBundle.bundle
+r0
+
